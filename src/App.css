@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.loading {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 48px;
+}
+
+.crypto-item {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+}
